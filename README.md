@@ -31,9 +31,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
     </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="css3" width="40" height="40"/></code>  
-    </a> 
     <a href="https://nodejs.org" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="css3" width="40" height="40"/></code>  
     </a> 
