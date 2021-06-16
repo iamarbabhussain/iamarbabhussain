@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Arbab Hussain</h1>
 <h3 align="center">A Passionate Laravel, PHP Developer!</h3>
+<hp align="center">![](https://komarev.com/ghpvc/?username=iamarbabhussain&color=blue)
+</p>
 
 - 💻 I’m currently working on **Laravel, Wordpress, PHP.**
 - 🌱 I’m currently learning **MERN Stack & VueJS.**
