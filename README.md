@@ -1,23 +1,13 @@
 <h1 align="center">Hi 👋🏻, I'm Arbab Hussain</h1>
 <h3 align="center">A Passionate Laravel, PHP Developer!</h3>
-<hp align="center">![](https://komarev.com/ghpvc/?username=iamarbabhussain&color=blue)
-</p>
+
+![](https://komarev.com/ghpvc/?username=iamarbabhussain)
 
 - 💻 I’m currently working on **Laravel, Wordpress, PHP.**
 - 🌱 I’m currently learning **MERN Stack & VueJS.**
 - 💬 Ask me about **Laravel, PHP, NodeJS, CSS, JavaScript, jQuery, Wordpress, Shopify, Wix, MongoDB, MySQL.**
 - 📫 How to reach me: **Connect to me via Email [Arbab Hussain](mailto:arbabhussain168@gmail.com).**
 - ⚡ Fun fact: **I love Music!**
-
-<p>
-<h3>Connect with me:</h3>
-
-<a href="https://fb.com/iamarbabhussain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" height="40" width="40" /> </a>
-<a href="https://instagram.com/iamarbabhussain" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" height="40" width="40" /> </a>
-<a href="https://twitter.com/iamarbabhussain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/twitter/twitter-original.svg" height="40" width="40" /> </a>
-<a href="https://arbabhussain.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/chrome/chrome-original.svg" height="40" width="40" /> </a>
-
-</p>
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
