@@ -1,6 +1,8 @@
-## Hi, I'm Arbab Hussain
+## Hi, I'm Arbab Hussain!
 
 I’m an experienced Laravel developer with a proven track record of delivering sleek, functional, and user-friendly web solutions. Over the years, I’ve had the privilege of working with clients from the UK, Germany, and Denmark, creating tailored digital experiences that stand out.
+
+I prioritize code quality and scalability, creating solutions that are easy to maintain and future-proof. My development process is transparent, ensuring clear communication and timely delivery. I stay updated with the latest technologies to provide modern, effective solutions tailored to your needs.
 
 ### Laravel Proficiency
 
@@ -59,4 +61,3 @@ Feel free to reach out to me for any web development projects or collaborations.
 - **Website**: https://arbabhussain.com
 - **LinkedIn**: https://www.linkedin.com/in/iamarbabhussain
 - **WhatsApp**: https://wa.me/+923155533944
-- **GitHub**: https://github.com/iamarbabhussain
